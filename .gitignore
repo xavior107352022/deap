@@ -22,3 +22,7 @@ MANIFEST
 # IDE stuff
 .idea
 .vscode
+
+# data
+data/
+*.xlsx
